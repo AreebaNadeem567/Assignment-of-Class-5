@@ -7,7 +7,7 @@ let full_name : string = "Areesha";
 // PascalCase
 let FullName : string = "Laiba";
 
-let isFullName : string = ('Baby');
+let isFullName : string = 'Baby';
 let is_full_Name : Number =  567;
 let IsFullName : boolean = true;
 
@@ -16,7 +16,7 @@ console.log(isFullName,is_full_Name,IsFullName);
 
 //Array Step 1
 let fruits : string[] = ["Mango", "Orange", "Grapes"];
-let firstFruitName = "Mango";
+let firstFruitName = [0];
 console.log(firstFruitName);
 
 //  Different types array step 2
